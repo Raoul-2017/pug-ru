@@ -1,3 +1,3 @@
-# English documentation of Pug
+# Документация по PugJS на русском языке
 
-This repository contains the documentation of Pug in English. It will be live at https://pugjs.com.
+Этот репозиторий содержит в себе перевод документации по PugJS на русский язык. Онлайн можно почитать на http://pugjs.ru.
